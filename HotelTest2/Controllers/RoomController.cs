@@ -12,5 +12,6 @@ namespace HotelTest2.Controllers
         {
             return View();
         }
+        //Dodavanje CRUDa 
     }
 }
