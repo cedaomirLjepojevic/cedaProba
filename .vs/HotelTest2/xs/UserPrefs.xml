@@ -1,0 +1,46 @@
+﻿<Properties StartupConfiguration="{42F16590-0531-402C-9C9E-4B3E5CE5FEB4}|https">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="HotelTest2/Program.cs">
+    <Files>
+      <File FileName="HotelTest2/appsettings.json" />
+      <File FileName="HotelTest2/Controllers/HomeController.cs" />
+      <File FileName="HotelTest2/Views/Home/About.cshtml" />
+      <File FileName="HotelTest2/Views/Home/Contact.cshtml" />
+      <File FileName="HotelTest2/Views/Home/Service.cshtml" />
+      <File FileName="HotelTest2/Views/Shared/_Layout.cshtml" />
+      <File FileName="HotelTest2/Controllers/RoomController.cs" />
+      <File FileName="HotelTest2/Views/Home/Index.cshtml" />
+      <File FileName="HotelTest2/Views/Room/Index.cshtml" />
+      <File FileName="HotelTest2/Controllers/BookingController.cs" />
+      <File FileName="HotelTest2/Views/Booking/Index.cshtml" />
+      <File FileName="HotelTest2/Data/ApplicationDbContext.cs" />
+      <File FileName="HotelTest2/Program.cs" Line="1" Column="1" />
+      <File FileName="HotelTest2/Models/ErrorViewModel.cs" />
+      <File FileName="HotelTest2/Models/Hotel.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="HotelTest2" expanded="True">
+            <Node name="HotelTest2" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Controllers" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Booking" expanded="True" />
+                <Node name="Home" expanded="True" />
+                <Node name="Room" expanded="True" />
+              </Node>
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.HotelTest2 PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
