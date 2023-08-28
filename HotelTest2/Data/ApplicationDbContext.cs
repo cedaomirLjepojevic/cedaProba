@@ -10,6 +10,6 @@ public class ApplicationDbContext : IdentityDbContext
         : base(options)
     {
     }
-    DbSet<Hotel> hotels { get; set; }
+    DbSet<Rooms> rooms { get; set; }
 }
 
